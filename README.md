@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Horfezyn
-- 👀 I’m interested in learning new things and well I'm an electrical engineer
-- 🌱 I’m currently learning to code in python and C
-- 💞️ I’m looking to collaborate on Project management, electrical and energy management
-- 📫 How to reach me @Horfezyn everywhere
+👋 Hey there! I’m @Horfezyn! curious by nature, electrical engineer by profession and always on the hunt for new knowledge and skills. Currently diving deep into the world of coding with Python and C—because who doesn’t love a good challenge and I'm passionate about collaborating on project management, electrical systems, and energy optimization—let’s make things happen!
+📬 Find me everywhere as @Horfezyn—let’s connect and build something amazing together!
 
 <!---
 Horfezyn/Horfezyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
